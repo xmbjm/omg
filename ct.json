@@ -385,6 +385,52 @@
 			"changeable": 0,
 			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
 		},
+    {
+      "key": "🔱官源｜腾讯🏅",
+      "name": "🔱官源｜腾讯🏅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js"
+    },
+    {
+      "key": "🔱官源｜爱奇艺🏅",
+      "name": "🔱官源｜爱奇艺🏅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js"
+    },
+    {
+      "key": "🔱官源｜优酷🏅",
+      "name": "🔱官源｜优酷🏅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "🔱官源｜芒果🏅",
+      "name": "🔱官源｜芒果🏅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
+    },
+    {
+      "key": "🔱官源｜搜狗🏅",
+      "name": "🔱官源｜搜狗🏅",
+      "type": 3,
+      "api": "./lib/1.js",
+      "ext": "./lib/菜狗.js"
+    },
+    {
+      "key": "🔱官源 | 360🏅",
+      "name": "🔱官源 | 360🏅",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar": " ./lib/360影视.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
 		{
 			"key": "haiwaikan",
 			"name": "海外看",
